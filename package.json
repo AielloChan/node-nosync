@@ -1,0 +1,24 @@
+{
+    "name": "node-nosync",
+    "version": "1.0.0",
+    "description": "Prevent 'node_modules' from sync to iCloud",
+    "author": "Aiello Chan <aiello.chan@gmail.com>",
+    "homepage": "https://github.com/AielloChan/node-nosync",
+    "bin": {
+        "nosync": "./bin/node-nosync.js"
+    },
+    "bugs": {
+        "url": "https://github.com/AielloChan/node-nosync/issues"
+    },
+    "keywords": [
+        "iCloud",
+        "nosync",
+        "node_modules",
+        "同步"
+    ],
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/AielloChan/node-nosync.git"
+    }
+}
